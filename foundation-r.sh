@@ -56,8 +56,8 @@ sudo apt update
 ##
 
 cd
-mkdir R-DevEnv  ## [insert user folder here]
+mkdir R-DevEnv
 cd /R-DevEnv/ -v
-git clone https://gitlab.com/noellechubb/secrets
+git clone https://github.com/zsh-cosette/village-buildr
 
 
