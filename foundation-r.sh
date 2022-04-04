@@ -1,5 +1,6 @@
-## Shell Script to run installations on Ubuntu to run RStudio Packages.
+#!/bin/bash
 
+## Shell Script to run installations on Ubuntu to run RStudio Packages.
 # Get git
 sudo apt-get install git
 sudo apt-get install gdebi
