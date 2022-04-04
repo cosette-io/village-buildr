@@ -1,0 +1,2 @@
+#!/bin/bash
+cp -ar ..home/cosette/ /mnt/v/vtt-playlist
