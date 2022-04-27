@@ -56,9 +56,10 @@ sudo apt update
 
 ##
 
-cd
-mkdir R-DevEnv
-cd /R-DevEnv/ -v
+cd /home/
+mkdir /dev/ -v
+cd /dev/
+mkdir /repos/
 git clone https://github.com/zsh-cosette/village-buildr
 
 
